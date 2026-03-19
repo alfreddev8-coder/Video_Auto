@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+build
+dist
+.env
+.env.local
+*.log
+__pycache__
+/tmp
+*.mp3
+*.mp4
+/clips
+.DS_Store
