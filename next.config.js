@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Turbopack is generally stable now, let's keep it clean
+  /* config options here */
 };
 
-export default nextConfig;
+module.exports = nextConfig;
