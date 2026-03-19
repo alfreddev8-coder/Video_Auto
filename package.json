@@ -18,12 +18,14 @@
     "next": "^16.2.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
-    "tailwind-merge": "^3.5.0"
+    "tailwind-merge": "^3.5.0",
+    "uuid": "^11.1.0"
   },
   "devDependencies": {
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "@types/uuid": "^10.0.0",
     "autoprefixer": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
